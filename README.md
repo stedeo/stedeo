@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @stedeo
+- 🎨 I'm a 3D artist and animator
 - 👀 I’m interested in game dev and coding
-- 🌱 I’m currently learning python & C++ for use in Unreal Engine
+- 🌱 I’m currently C++ for use in Unreal Engine
 - 💞️ I’m looking to collaborate on nothing right now!
 - 📫 How to reach me on discord @ Stedeo#2763
 
