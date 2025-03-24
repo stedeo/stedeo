@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stedeo
-- 🎨 I'm a 3D artist and animator
+- 🎨 I'm a 3D artist and animator and currently in my undergrad for compsci
 - 👀 I’m interested in game dev and coding
 - 🌱 I’m currently C++ for use in Unreal Engine
 - 💞️ I’m looking to collaborate on nothing right now!
